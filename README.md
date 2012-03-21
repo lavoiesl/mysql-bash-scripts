@@ -15,6 +15,7 @@ Those files define functions to be used as you wish:
   * database.sh
   * project.sh
   * user.sh
+  * config_file.sh
 
 Function names are pretty self-explanatory, look at the code to know what they do.
 

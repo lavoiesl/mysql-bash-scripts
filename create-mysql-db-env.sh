@@ -4,6 +4,7 @@
 . user.sh
 . database.sh
 . project.sh
+. config_file.sh
 
 project="$1"
 envs="dev stage"
